@@ -1,2 +1,12 @@
 # EvenniaNotepadPlusPlus
-Very simple syntax highlighting for Notepad++
+Very simple Evennia syntax highlighting for Notepad++
+
+##Prerequisites
+This file requies Notepad++ to be installed
+
+##Installation Instructions
+1. Select "Language"
+2. Select "Define Your Language" 
+3. Select "Import" 
+4. Select the xml file included in this repository
+5. Profit!
