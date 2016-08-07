@@ -5,8 +5,9 @@ Very simple Evennia syntax highlighting for Notepad++ when editing .ev batchfile
 This file requies Notepad++ to be installed
 
 ##Installation Instructions
-1. Select "Language"
-2. Select "Define Your Language" 
-3. Select "Import" 
-4. Select the xml file included in this repository
-5. Profit!
+1. Download the included file and open Notepad++
+2. Select "Language"
+3. Select "Define Your Language" 
+4. Select "Import" 
+5. Select the xml file included in this repository
+6. Profit!
