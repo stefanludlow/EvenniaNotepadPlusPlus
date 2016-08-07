@@ -1,5 +1,5 @@
 # EvenniaNotepadPlusPlus
-Very simple Evennia syntax highlighting for Notepad++
+Very simple Evennia syntax highlighting for Notepad++ when editing .ev batchfiles. 
 
 ##Prerequisites
 This file requies Notepad++ to be installed
